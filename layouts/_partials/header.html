@@ -1,0 +1,25 @@
+<header class="site-header">
+    <div class="nav-row">
+        <div class="container">
+            <a class="header-logos" href="/" aria-label="Home">
+                <img class="logo-uni" src="/images/logos/logo-uni-bonn.png" alt="University of Bonn">
+                <img class="logo-cassis" src="/images/logos/logo-cassis.jpg" alt="CASSIS — Center for Advanced Security, Strategic and Integration Studies">
+                <img class="logo-tra" src="/images/logos/logo-tra.webp" alt="Transdisciplinary Research Area: Individuals and Societies">
+            </a>
+            <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+            <nav class="main-nav" aria-label="Main navigation">
+                <ul>
+                    {{ $currentPage := . }}
+                    {{ range site.Menus.main }}
+                    <li>
+                        <a href="{{ .URL }}"
+                           {{ if or ($currentPage.IsMenuCurrent "main" .) (eq $currentPage.RelPermalink .URL) }}class="active"{{ end }}>
+                            {{ .Name }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>

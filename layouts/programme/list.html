@@ -1,0 +1,49 @@
+{{ define "main" }}
+<div class="page-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.intro }}<p class="page-intro">{{ . }}</p>{{ end }}
+    </div>
+</div>
+<div class="page-body">
+    <div class="container">
+        {{ with .Content }}<div class="prose" style="margin-bottom:2.5rem;">{{ . }}</div>{{ end }}
+
+        {{ range .Params.days }}
+        <div class="prog-day">
+            <div class="prog-day-head">
+                <h2>{{ .title }}</h2>
+                <span class="day-date">{{ .date }}</span>
+            </div>
+            {{ range .items }}
+                {{ if eq .type "break" }}
+                <div class="prog-item is-break">
+                    <div class="prog-time">{{ .time }}</div>
+                    <div class="prog-body"><span>{{ .label }}</span></div>
+                </div>
+                {{ else }}
+                <div class="prog-item {{ if .highlight }}is-highlight{{ end }}">
+                    <div class="prog-time">{{ .time }}</div>
+                    <div class="prog-body">
+                        {{ with .kind }}<span class="prog-kind">{{ . }}</span>{{ end }}
+                        {{ with .title }}<h3>{{ . | safeHTML }}</h3>{{ end }}
+                        {{ with .desc }}<p>{{ . | safeHTML }}</p>{{ end }}
+                        {{ with .people }}
+                        <ul>
+                            {{ range . }}<li>{{ . | safeHTML }}</li>{{ end }}
+                        </ul>
+                        {{ end }}
+                        {{ with .moderation }}<div class="prog-mod">{{ . | safeHTML }}</div>{{ end }}
+                    </div>
+                </div>
+                {{ end }}
+            {{ end }}
+        </div>
+        {{ end }}
+
+        <div class="callout">
+            <p><strong>Please note:</strong> This programme is a draft and subject to change. Entries marked <span class="tbc">(tbc)</span> are still to be confirmed.</p>
+        </div>
+    </div>
+</div>
+{{ end }}

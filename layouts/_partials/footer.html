@@ -1,0 +1,41 @@
+<footer class="site-footer">
+    <div class="container">
+        <div>
+            <div class="footer-brand-title">Digital Dependencies from an International Perspective</div>
+            <p>On the Way to Global Digital Sovereignty<br>
+            International Workshop · University of Bonn · 21–22 October 2026</p>
+            <div class="footer-partners-row">
+                <span class="footer-partners-label">Organised by</span>
+                <div class="footer-partners-plate">
+                    <img src="/images/logos/logo-uni-bonn.png" alt="University of Bonn">
+                    <img src="/images/logos/logo-cassis.jpg" alt="CASSIS">
+                    <img src="/images/logos/logo-tra.webp" alt="TRA Individuals and Societies">
+                </div>
+            </div>
+        </div>
+        <div>
+            <h4>Navigate</h4>
+            <p>
+                {{ range site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a><br>
+                {{ end }}
+            </p>
+        </div>
+        <div>
+            <h4>Contact</h4>
+            <p>
+                <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a><br>
+                University of Bonn<br>
+                Bonn, Germany
+            </p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="footer-bottom">
+            <span>© {{ now.Year }} University of Bonn. All rights reserved.</span>
+            <span class="footer-legal-links">
+                <a href="/imprint/">Imprint</a>
+                <a href="/privacy/">Privacy Policy</a>
+            </span>
+        </div>
+    </div>
+</footer>
