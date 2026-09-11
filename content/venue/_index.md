@@ -10,7 +10,7 @@ layout: "single"
 [Room tba]
 Genscherallee 3, 53113 Bonn, Germany
 
-The academic sessions on both days will be held at the University of Bonn.
+The academic sessions on both days will be held at this venue.
 The precise building and room will be confirmed with registered
 participants ahead of the event.
 
