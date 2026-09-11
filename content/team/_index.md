@@ -18,16 +18,3 @@ layout: "single"
 <span class="person-affil">University of Bonn</span>
 </div>
 
-<div class="person">
-
-### PD Dr. Laura Mahrenbach
-<span class="person-affil">University of Bonn</span>
-</div>
-
-<div class="person">
-
-### Philip Nock
-<span class="person-affil">University of Bonn</span>
-</div>
-
-</div>
