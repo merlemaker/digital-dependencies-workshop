@@ -17,8 +17,8 @@
                     </div>
                 </div>
                 <div class="btn-row">
-                    <a href="/registration/" class="btn btn-primary">Register to attend</a>
-                    <a href="/programme/" class="btn btn-ghost">View the programme</a>
+                    <a href="{{ "registration/" | relURL }}" class="btn btn-primary">Register to attend</a>
+                    <a href="{{ "programme/" | relURL }}" class="btn btn-ghost">View the programme</a>
                 </div>
             </div>
             <div class="hero-aside">
@@ -71,13 +71,13 @@
                 <div class="section-label">Keynotes</div>
                 <h2>Featured speakers</h2>
                 <p>The workshop features keynote contributions and discussions from interdisciplinary and international perspectives.</p>
-                <p><a href="/keynotes/">See all keynotes and speakers →</a></p>
+                <a href="{{ "keynotes/" | relURL }}">See all keynotes and speakers →</a>
             </div>
             <div>
                 <div class="section-label">Public evening panel</div>
                 <h2>Open to the public</h2>
                 <p>On the evening of 21 October, a public panel discussion at will address digital dependencies versus digital sovereignty, followed by a reception.</p>
-                <p><a href="/programme/">See the full programme →</a></p>
+                <a href="{{ "programme/" | relURL }}">See the full programme →</a>
             </div>
         </div>
     </div>
@@ -86,9 +86,9 @@
 <section class="cta-band">
     <div class="container">
         <h2>Join us in Bonn</h2>
-        <p>Attendance is free. Registration requiered due to limited capacity.</p>
+        <p>Attendance is free. Registration required due to limited capacity.</p>
         <div class="btn-row" style="margin-top:1.5rem;">
-            <a href="/registration/" class="btn btn-primary">Register now</a>
+            <a href="{{ "registration/" | relURL }}" class="btn btn-primary">Register now</a>
         </div>
     </div>
 </section>
