@@ -4,8 +4,6 @@ intro: "This workshop is hosted by the University of Bonn, in cooperation with C
 layout: "single"
 ---
 
-div class="person-list">
-
 <div class="person">
 
 ### Prof. Dr. Caja Thimm

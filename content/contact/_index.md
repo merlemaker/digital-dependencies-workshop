@@ -7,6 +7,6 @@ layout: "single"
 For all enquiries regarding the workshop, programme, registration, travel,
 or accessibility please contact the organising team:
 
-**Email:** [merle.rittinghaus@uni.bonn.de](mailto:merle.rittinghaus@uni.bonn.de)
+**Email:** [nock@uni-bonn.de](mailto:nock@uni-bonn.de)
 
 We aim to respond within a few working days.
