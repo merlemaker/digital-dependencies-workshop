@@ -12,15 +12,15 @@ Digital Sovereignty” and is operated by the persons responsible named below.
 
 **Responsible for content (pursuant to § 18 (2) MStV):**
 
-Prof. Dr. Caja Thimm  
-Medienwissenschaft und Intermedialität  
-Universität Bonn  
-Lennéstraße 1  
-D-53113 Bonn
+Philip Nock   
+Center for Advanced Security, Strategic and Integration Studies (CASSIS)    
+University Bonn   
+Belderberg 6   
+D-53111 Bonn  
 
 **Contact:**  
-Phone: +49 228 734746  
-Email: [thimm@uni-bonn.de](mailto:thimm@uni-bonn.de)
+Phone: +49 228 73-5642  
+Email: [nock@uni-bonn.de](mailto:nock@uni-bonn.de)
 
 ## Liability for content
 

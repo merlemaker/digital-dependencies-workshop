@@ -20,12 +20,11 @@ business perspective.
 <div class="person">
 <div class="person-role">Keynote & Discussion</div>
 
-### Markus Beckedahl
-<span class="person-affil">CDRD Berlin <span class="tbc">(tbc)</span></span>
+### Irene Makau
+<span class="person-affil">The Oversight Lab Africa</span>
 
-“Shaping Digital Sovereignty for Civil Society: African and European
-Perspectives”. A keynote discussion moderated by Prof. Dr. Maximilian
-Mayer (University of Bonn).
+“Shaping Digital Sovereignty for Civil Society: An African Perspective” —
+a keynote and Q&A moderated by Prof. Dr. Maximilian Mayer (University of Bonn).
 </div>
 
 </div>
@@ -38,26 +37,25 @@ The workshop brings together contributors from across the world:
 <li><span class="c-name">Dr. Joscha Abels</span><span class="c-affil">University of Tübingen</span></li>
 <li><span class="c-name">Nathalie Brandmayr</span><span class="c-affil">Vodafone Institute</span></li>
 <li><span class="c-name">Dr. Karolina Brylska</span><span class="c-affil">University of Warsaw</span></li>
-<li><span class="c-name">Sandra Detzer, MdB <span class="tbc">(tbc)</span></span><span class="c-affil">German Parliament</span></li>
+<li><span class="c-name">Dr. Sandra Detzer, MdB</span><span class="c-affil">German Parliament</span></li>
+<li><span class="c-name">Dr. Ksenia Ermoshina</span><span class="c-affil">CNRS Paris</span></li>
 <li><span class="c-name">Dr. Nina Frahm</span><span class="c-affil">Aarhus University</span></li>
 <li><span class="c-name">Prof. Dr. Tomasz Gackowski</span><span class="c-affil">University of Warsaw</span></li>
 <li><span class="c-name">Rektor Prof. Dr. Michael Hoch <span class="tbc">(tbc)</span></span><span class="c-affil">University of Bonn</span></li>
-<li><span class="c-name">Magdalene Kariuki <span class="tbc">(tbc)</span></span><span class="c-affil">Tony Blair Institute for Global Change</span></li>
+<li><span class="c-name">Magdalene Kariuki</span><span class="c-affil">Tony Blair Institute for Global Change</span></li>
 <li><span class="c-name">Prof. Dr. Patrício Langa</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">Yen-Chi Lu</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">Dr. Rogelio Madrueño</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">PD Dr. Laura Mahrenbach</span><span class="c-affil">University of Bonn</span></li>
+<li><span class="c-name">Irene Makau</span><span class="c-affil">The Oversight Lab Africa</span></li>
+<li><span class="c-name">Dr. Carlotta Manz</span><span class="c-affil">University of Basel</span></li>
 <li><span class="c-name">Prof. Dr. Maximilian Mayer</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">Sreekanth Mukku</span><span class="c-affil">University of Duisburg-Essen</span></li>
-<li><span class="c-name">Florian Müller, MdB <span class="tbc">(tbc)</span></span><span class="c-affil">German Parliament</span></li>
 <li><span class="c-name">Philip Nock</span><span class="c-affil">University of Bonn</span></li>
-<li><span class="c-name">Dr. Elisa Oreglia</span><span class="c-affil">King's College London</span></li>
 <li><span class="c-name">Jyoti Panday</span><span class="c-affil">University of Stavanger</span></li>
-<li><span class="c-name">Ann Cathrin Riedel <span class="tbc">(tbc)</span></span><span class="c-affil">NExT e. V.</span></li>
 <li><span class="c-name">Dr. Luuk Schmitz</span><span class="c-affil">MPIfG Cologne</span></li>
 <li><span class="c-name">Prof. Dr. Mary Setrana</span><span class="c-affil">University of Ghana</span></li>
 <li><span class="c-name">Prof. Dr. Caja Thimm</span><span class="c-affil">University of Bonn</span></li>
-<li><span class="c-name">Prof. Dr. Paul Timmers <span class="tbc">(tbc)</span></span><span class="c-affil">KU Leuven</span></li>
 <li><span class="c-name">Ben Wreschner</span><span class="c-affil">Vodafone Group</span></li>
 </ul>
 

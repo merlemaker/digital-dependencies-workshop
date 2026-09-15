@@ -4,7 +4,7 @@ intro: "This workshop is hosted by the University of Bonn, in cooperation with C
 layout: "single"
 ---
 
-<div class="person-list">
+div class="person-list">
 
 <div class="person">
 
@@ -18,3 +18,22 @@ layout: "single"
 <span class="person-affil">University of Bonn</span>
 </div>
 
+<div class="person">
+
+### Philip Nock
+<span class="person-affil">University of Bonn</span>
+</div>
+
+<div class="person">
+
+### Merle Rittinghaus
+<span class="person-affil">University of Bonn</span>
+</div>
+
+<div class="person">
+
+### Lea Krettenauer
+<span class="person-affil">University of Bonn</span>
+</div>
+
+</div>
