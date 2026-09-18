@@ -7,8 +7,7 @@ layout: "single"
 <div class="person-list">
 
 <div class="speaker">
-<img class="speaker-photo" src="images/speakers/julia-pohle.jpg" alt="Dr. Julia Pohle">
-<div class="speaker-body">
+<img class="speaker-photo" src="/images/speakers/julia-pohle.jpg" alt="Dr. Julia Pohle"><div class="speaker-body">
 <div class="person-role">Keynote</div>
 
 ### Dr. Julia Pohle 
@@ -19,8 +18,7 @@ layout: "single"
 </div>
 
 <div class="speaker">
-<img class="speaker-photo" src="images/speakers/irene-makau.jpg" alt="Irene Makau">
-<div class="speaker-body">
+<img class="speaker-photo" src="/images/speakers/irene-makau.jpg" alt="Irene Makau"><div class="speaker-body">
 <div class="person-role">Keynote & Discussion</div>
 
 ### Irene Makau 
