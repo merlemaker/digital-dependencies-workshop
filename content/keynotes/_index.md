@@ -8,23 +8,23 @@ layout: "single"
 
 <div class="speaker">
 <img class="speaker-photo" src="/images/speaker/julia-pohle.jpg" alt="Dr. Julia Pohle"><div class="speaker-body">
-<div class="person-role">Keynote</div>
+<div class="person-role">Keynote and Q&A: “Digital Dependencies and Global Politics” </div>
 
 ### Dr. Julia Pohle 
 <span class="person-affil">CMB Paris & WZB Berlin</span>
 
-“Digital Dependencies and Global Politics.” [Hier 2–4 Sätze Kurzbio: aktuelle Position, Forschungsschwerpunkte, warum sie zum Thema passt.]
+Dr. Julia Pohle is Deputy Director of the Centre Marc Bloch (CMB) in Berlin and a project lead and visiting researcher in the “Globalisation, Work and Production” research group at the WZB Berlin Social Science Center. Her work focuses on global and European digital policy, internet governance, and the political debates surrounding digital sovereignty, and she regularly advises institutions such as the German Bundestag and the European Commission’s Joint Research Centre. She previously worked at the UNESCO Secretariat in Paris.
 </div>
 </div>
 
 <div class="speaker">
 <img class="speaker-photo" src="/images/speaker/irene-makau.jpg" alt="Irene Makau"><div class="speaker-body">
-<div class="person-role">Keynote & Discussion</div>
+<div class="person-role">Keynote and Q&A: “Shaping Digital Sovereignty for Civil Society: An African Perspective.”</div>
 
 ### Irene Makau 
 <span class="person-affil">The Oversight Lab Africa</span>
 
-“Shaping Digital Sovereignty for Civil Society: An African Perspective.” [Hier 2–4 Sätze Kurzbio.]
+Irene Makau is a Kenyan lawyer and technology-policy researcher working at the intersection of technology, digital markets, and human rights. As a Research Officer at The Oversight Lab Africa, she examines how the continent’s digital transformation can be shaped to protect people’s rights, focusing on consumer concerns, market integrity, and competition in fast-changing digital markets. Her research covers digital markets, e-governance, cross-border data flows, and the AI-driven gig economy, and she has previously worked with organisations including Centre for Intellectual Property and Information Technology Law (CIPIT) and Africa Legal Network Kenya (ALN).
 </div>
 
 
