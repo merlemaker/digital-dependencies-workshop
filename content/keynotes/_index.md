@@ -36,20 +36,23 @@ The workshop brings together contributors from across the world:
 
 <ul class="contributors">
 <li><span class="c-name">Dr. Joscha Abels</span><span class="c-affil">University of Tübingen</span></li>
-<li><span class="c-name">Nathalie Brandmayr</span><span class="c-affil">Vodafone Institute</span></li>
+<li><span class="c-name">Prof. Dr. Christian Bauckhage</span><span class="c-affil">University of Bonn &amp; Fraunhofer IAIS</span></li>
+<li><span class="c-name">Nathalie Brandmeyr</span><span class="c-affil">Vodafone Institute</span></li>
+<li><span class="c-name">Jan Bruck <span class="tbc">(tbc)</span></span><span class="c-affil">Deutsche Welle</span></li>
 <li><span class="c-name">Dr. Karolina Brylska</span><span class="c-affil">University of Warsaw</span></li>
-<li><span class="c-name">Dr. Sandra Detzer, MdB</span><span class="c-affil">German Parliament</span></li>
+<li><span class="c-name">Dr. Sandra Detzer, MdB</span><span class="c-affil">Deutscher Bundestag</span></li>
 <li><span class="c-name">Dr. Ksenia Ermoshina</span><span class="c-affil">CNRS Paris</span></li>
 <li><span class="c-name">Dr. Nina Frahm</span><span class="c-affil">Aarhus University</span></li>
 <li><span class="c-name">Prof. Dr. Tomasz Gackowski</span><span class="c-affil">University of Warsaw</span></li>
-<li><span class="c-name">Rektor Prof. Dr. Michael Hoch <span class="tbc">(tbc)</span></span><span class="c-affil">University of Bonn</span></li>
-<li><span class="c-name">Magdalene Kariuki</span><span class="c-affil">Tony Blair Institute for Global Change</span></li>
+<li><span class="c-name">Magdalene Kariuki</span><span class="c-affil">Tony Blair Institute (Country Director Kenya)</span></li>
+<li><span class="c-name">Amanuel Tesfaye Kebede</span><span class="c-affil">University of Helsinki</span></li>
 <li><span class="c-name">Prof. Dr. Patrício Langa</span><span class="c-affil">University of Bonn</span></li>
+<li><span class="c-name">Dr. Hangwei Li</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">Yen-Chi Lu</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">Dr. Rogelio Madrueño</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">PD Dr. Laura Mahrenbach</span><span class="c-affil">University of Bonn</span></li>
-<li><span class="c-name">Irene Makau</span><span class="c-affil">The Oversight Lab Africa</span></li>
 <li><span class="c-name">Dr. Carlotta Manz</span><span class="c-affil">University of Basel</span></li>
+<li><span class="c-name">Dr. Charles Martin-Shields</span><span class="c-affil">IDOS</span></li>
 <li><span class="c-name">Prof. Dr. Maximilian Mayer</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">Sreekanth Mukku</span><span class="c-affil">University of Duisburg-Essen</span></li>
 <li><span class="c-name">Philip Nock</span><span class="c-affil">University of Bonn</span></li>
@@ -59,7 +62,6 @@ The workshop brings together contributors from across the world:
 <li><span class="c-name">Prof. Dr. Caja Thimm</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">Ben Wreschner</span><span class="c-affil">Vodafone Group</span></li>
 </ul>
-
 <div class="callout">
 <p>The full list of confirmed speakers will be
 published closer to the event. Entries marked <span class="tbc">(tbc)</span> are still to be confirmed.</p>
