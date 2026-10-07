@@ -8,10 +8,10 @@ layout: "single"
 
 <div class="speaker">
 <img class="speaker-photo" src="/images/speaker/julia-pohle.jpg" alt="Dr. Julia Pohle"><div class="speaker-body">
-<div class="person-role">Keynote and Q&A: “Digital Dependencies and Global Politics” </div>
+<div class="person-role">Keynote: “Digital Dependencies and Global Politics” </div>
 
 ### Dr. Julia Pohle 
-<span class="person-affil">CMB Paris & WZB Berlin</span>
+<span class="person-affil">Centre Marc Bloch & WZB Berlin</span>
 
 Dr. Julia Pohle is Deputy Director of the Centre Marc Bloch (CMB) in Berlin and a project lead and visiting researcher in the “Globalisation, Work and Production” research group at the WZB Berlin Social Science Center. Her work focuses on global and European digital policy, internet governance, and the political debates surrounding digital sovereignty, and she regularly advises institutions such as the German Bundestag and the European Commission’s Joint Research Centre. She previously worked at the UNESCO Secretariat in Paris.
 </div>
@@ -19,7 +19,7 @@ Dr. Julia Pohle is Deputy Director of the Centre Marc Bloch (CMB) in Berlin and 
 
 <div class="speaker">
 <img class="speaker-photo" src="/images/speaker/irene-makau.jpg" alt="Irene Makau"><div class="speaker-body">
-<div class="person-role">Keynote and Q&A: “Shaping Digital Sovereignty for Civil Society: An African Perspective.”</div>
+<div class="person-role"> Keynote: Shaping Digital Sovereignty for Civil Society: African and Asian Perspectives”</div>
 
 ### Irene Makau 
 <span class="person-affil">The Oversight Lab Africa</span>
