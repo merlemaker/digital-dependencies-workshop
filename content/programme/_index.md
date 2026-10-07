@@ -45,7 +45,7 @@ days:
         moderation: "Moderation: Prof. Dr. Patrício Langa, University of Bonn"
       - time: "19:00 – 20:30"
         type: "break"
-        label: "Conference Dinner — The Protea Restaurant, Rheingasse 5, 53113 Bonn"
+        label: "Conference Dinner at The Protea Restaurant, Rheingasse 5, 53113 Bonn"
   - title: "Thursday, 22 October"
     date: "Day Two — Comparative Strategies & Closing Panels"
     items:
