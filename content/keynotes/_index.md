@@ -46,7 +46,7 @@ Irene Makau is a Kenyan lawyer and technology-policy researcher working at the i
 ### Dr. Hangwei Li
 <span class="person-affil">IDOS &amp; University of Bonn</span>
 
-Dr. Hangwei Li is a Senior Researcher at the German Institute of Development and Sustainability (IDOS) and an adjunct lecturer at the University of Bonn. Her work spans comparative politics, international development, and political communication, with a focus on China's engagement with the Global South — particularly Africa — and on China-financed digital infrastructure. She completed her PhD at SOAS, University of London, and worked for several years as a journalist and researcher across Ghana, Zambia, and Tanzania.
+Dr. Hangwei Li is a senior researcher at the University of Bonn and the German Institute of Development and Sustainability (IDOS). Her research spans comparative politics, international development, and political communication, with a particular focus on China’s engagement with the Global South, especially Africa, and on China-financed digital infrastructure. She received her PhD from SOAS, University of London. Prior to her academic career, she spent several years working as a journalist and researcher across Ghana, Zambia, and Tanzania.
 </div>
 </div>
 
