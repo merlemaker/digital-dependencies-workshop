@@ -27,6 +27,54 @@ Dr. Julia Pohle is Deputy Director of the Centre Marc Bloch (CMB) in Berlin and 
 Irene Makau is a Kenyan lawyer and technology-policy researcher working at the intersection of technology, digital markets, and human rights. As a Research Officer at The Oversight Lab Africa, she examines how the continent’s digital transformation can be shaped to protect people’s rights, focusing on consumer concerns, market integrity, and competition in fast-changing digital markets. Her research covers digital markets, e-governance, cross-border data flows, and the AI-driven gig economy, and she has previously worked with organisations including Centre for Intellectual Property and Information Technology Law (CIPIT) and Africa Legal Network Kenya (ALN).
 </div>
 
+## Featured Panellists
+
+<div class="speaker">
+<img class="speaker-photo" src="/images/speakers/hangwei-li.jpg" alt="Dr. Hangwei Li">
+<div class="speaker-body">
+<div class="person-role">Conversation (Day Two)</div>
+
+### Dr. Hangwei Li
+<span class="person-affil">IDOS &amp; University of Bonn</span>
+
+Dr. Hangwei Li is a Senior Researcher at the German Institute of Development and Sustainability (IDOS) and an adjunct lecturer at the University of Bonn. Her work spans comparative politics, international development, and political communication, with a focus on China's engagement with the Global South — particularly Africa — and on China-financed digital infrastructure. She completed her PhD at SOAS, University of London, and worked for several years as a journalist and researcher across Ghana, Zambia, and Tanzania.
+</div>
+</div>
+
+<div class="speaker">
+<img class="speaker-photo" src="/images/speakers/charles-martin-shields.jpg" alt="Dr. Charles Martin-Shields">
+<div class="speaker-body">
+<div class="person-role">Conversation (Day One)</div>
+
+### Dr. Charles Martin-Shields
+<span class="person-affil">IDOS</span>
+
+Dr. Charles Martin-Shields is a Project Lead and Senior Researcher at the German Institute of Development and Sustainability (IDOS), in the research programme "Transformation of Political (Dis-)order." His research examines the politics of digital technology in development cooperation, with a focus on migration and forced displacement, social cohesion, and digital governance. He completed his PhD at George Mason University and has advised partners including UNHCR, the European Commission, and the German government.
+</div>
+</div>
+
+<div class="speaker">
+<img class="speaker-photo" src="/images/speakers/sandra-detzer.jpg" alt="Dr. Sandra Detzer">
+<div class="speaker-body">
+<div class="person-role">Public Panel</div>
+
+### Dr. Sandra Detzer
+<span class="person-affil">Member of the Deutscher Bundestag</span>
+
+Dr. Sandra Detzer is a Member of the German Bundestag for Bündnis 90/Die Grünen, representing the Ludwigsburg constituency, and serves as her parliamentary group's spokesperson for economic policy. She sits on the Bundestag's Committee for Economic Affairs and Energy and has made economic security and strategic dependencies — including critical raw materials and European competitiveness — a central theme of her work. She studied political science and economics in Munich and holds a doctorate from Heidelberg University.
+</div>
+</div>
+
+<div class="speaker">
+<img class="speaker-photo" src="/images/speakers/magdalene-kariuki.jpg" alt="Magdalene Kariuki">
+<div class="speaker-body">
+<div class="person-role">Public Panel</div>
+
+### Magdalene Kariuki
+<span class="person-affil">Tony Blair Institute for Global Change</span>
+
+Magdalene Kariuki is Country Director for Kenya at the Tony Blair Institute for Global Change, where she leads the Institute's work supporting public-sector reform and digital transformation, including Kenya's national artificial intelligence agenda. She brings around two decades of experience in policy advocacy and stakeholder engagement, working closely with government on digital trade, AI readiness, and investment. She holds a Master of Public Policy and Administration from Kenyatta University.
+</div>
 
 </div>
 
