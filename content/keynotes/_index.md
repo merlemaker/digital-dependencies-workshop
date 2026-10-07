@@ -50,14 +50,6 @@ Dr. Hangwei Li is a Senior Researcher at the German Institute of Development and
 </div>
 </div>
 
-<div class="callout">
-<p><strong>Keynote sessions:</strong></p>
-<p><strong>Day 1 — Keynote: “Digital Dependencies and Global Politics”</strong> — Dr. Julia Pohle (Centre Marc Bloch & WZB Berlin).<br>
-<strong>Conversation across fields</strong> — Dr. Julia Pohle (Centre Marc Bloch & WZB Berlin) and Dr. Charles Martin-Shields (IDOS).</p>
-<p><strong>Day 2 — Keynote: “Shaping Digital Sovereignty for Civil Society: African and Asian Perspectives”</strong> — Irene Makau (The Oversight Lab Africa).<br>
-<strong>Conversation</strong> — Irene Makau (The Oversight Lab Africa) and Dr. Hangwei Li (University of Bonn).</p>
-</div>
-
 ## Panellists & Contributors
 
 The workshop brings together contributors from across the world:
