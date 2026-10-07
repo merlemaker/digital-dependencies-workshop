@@ -1,10 +1,10 @@
 ---
 title: "Programme"
-intro: "A two-day programme of keynotes, thematic panels, and a public closing event, 21–22 October 2026 at the ZEI Center for European Integration Studies, University of Bonn."
+intro: "A two-day programme of keynotes, thematic panels, and a public panel, 21–22 October 2026 at the ZEI Center for European Integration Studies, University of Bonn."
 type: "programme"
 days:
   - title: "Wednesday, 21 October"
-    date: "Day One"
+    date: "Day One — Opening & Core Sessions"
     items:
       - time: "10:30 – 11:00"
         type: "break"
@@ -12,11 +12,11 @@ days:
       - time: "11:00 – 12:30"
         kind: "Welcome & Keynote"
         title: "Welcome and Introduction to the Programme"
-        desc: "Opening remarks followed by the workshop's first keynote."
+        desc: "Opening remarks, followed by the workshop's first keynote and a cross-disciplinary conversation."
         people:
-          - "Rektor Prof. Dr. Michael Hoch <span class='tbc'>(tbc)</span>"
-          - "Prof. Dr. Caja Thimm &amp; Prof. Maximilian Mayer, University of Bonn"
-          - "<strong>Keynote and Q&amp;A:</strong> “Digital Dependencies and Global Politics” — Dr. Julia Pohle, CMB Paris &amp; WZB Berlin"
+          - "Prof. Dr. Caja Thimm &amp; Prof. Dr. Maximilian Mayer, University of Bonn"
+          - "<strong>Keynote:</strong> “Digital Dependencies and Global Politics” — Dr. Julia Pohle, Centre Marc Bloch &amp; WZB Berlin"
+          - "<strong>Conversation across fields:</strong> Dr. Julia Pohle, Centre Marc Bloch &amp; WZB Berlin, and Dr. Charles Martin-Shields, IDOS"
         moderation: "Moderation: Prof. Dr. Caja Thimm, University of Bonn"
         highlight: true
       - time: "12:30 – 14:00"
@@ -26,10 +26,11 @@ days:
         kind: "Panel I"
         title: "How to Measure Digital Dependence"
         people:
+          - "Amanuel Tesfaye Kebede, University of Helsinki"
           - "Prof. Dr. Maximilian Mayer &amp; Yen-Chi Lu, University of Bonn"
           - "Jyoti Panday, University of Stavanger"
           - "Dr. Luuk Schmitz, MPIfG Cologne"
-        moderation: "Moderation: Nathalie Brandmayr, Vodafone Institute"
+        moderation: "Moderation: Philip Nock, University of Bonn"
       - time: "15:30 – 16:00"
         type: "break"
         label: "Coffee break"
@@ -38,24 +39,25 @@ days:
         title: "Digital Inequalities: Economic, Political and Social Consequences"
         people:
           - "Prof. Dr. Tomasz Gackowski &amp; Dr. Karolina Brylska, University of Warsaw"
-          - "Prof. Dr. Caja Thimm, University of Bonn"
           - "Dr. Rogelio Madrueño, University of Bonn"
           - "Prof. Dr. Mary Setrana, University of Ghana"
+          - "Prof. Dr. Caja Thimm, University of Bonn"
         moderation: "Moderation: Prof. Dr. Patrício Langa, University of Bonn"
       - time: "19:00 – 20:30"
         type: "break"
-        label: "Dinner"
+        label: "Conference Dinner — The Protea Restaurant, Rheingasse 5, 53113 Bonn"
   - title: "Thursday, 22 October"
-    date: "Day Two"
+    date: "Day Two — Comparative Strategies & Closing Panels"
     items:
       - time: "08:30 – 09:00"
         type: "break"
         label: "Coffee chat"
       - time: "09:00 – 10:00"
-        kind: "Keynote & Discussion"
-        title: "Shaping Digital Sovereignty for Civil Society: An African Perspective"
+        kind: "Keynote & Conversation"
+        title: "Shaping Digital Sovereignty for Civil Society: African and Asian Perspectives"
         people:
-          - "<strong>Keynote and Q&amp;A:</strong> Irene Makau, The Oversight Lab Africa"
+          - "<strong>Keynote:</strong> Irene Makau, The Oversight Lab Africa"
+          - "<strong>Conversation:</strong> Irene Makau, The Oversight Lab Africa, and Dr. Hangwei Li, University of Bonn"
         moderation: "Moderation: Prof. Dr. Maximilian Mayer, University of Bonn"
         highlight: true
       - time: "10:00 – 10:15"
@@ -66,10 +68,10 @@ days:
         title: "Strategies for Technological Autonomy / Sovereignty in Global Comparison"
         people:
           - "Dr. Joscha Abels, University of Tübingen"
+          - "Dr. Ksenia Ermoshina, CNRS Paris"
           - "PD Dr. Laura Mahrenbach, University of Bonn"
           - "Sreekanth Mukku, University of Duisburg-Essen"
-          - "Dr. Ksenia Ermoshina, CNRS Paris"
-        moderation: "Moderation: Philip Nock, University of Bonn"
+        moderation: "Moderation: Nathalie Brandmeyr, Vodafone Institute"
       - time: "12:15 – 13:15"
         type: "break"
         label: "Lunch break"
@@ -85,17 +87,23 @@ days:
         type: "break"
         label: "Coffee break"
       - time: "14:45 – 16:00"
-        kind: "Public Closing Event"
+        kind: "Public Panel"
         title: "Strategies of European Digital Sovereignty in a Global Context: Perspectives from Politics, Business and Research"
-        desc: "A public event, open to all, concluding the workshop."
+        desc: "A public panel, open to all, concluding the workshop."
         people:
-          - "Dr. Sandra Detzer, Member of the German Parliament"
-          - "Magdalene Kariuki, Tony Blair Institute for Global Change"
-          - "Ben Wreschner, Vodafone Group"
-          - "NN"
-        moderation: "Moderation: NN"
+          - "Prof. Dr. Christian Bauckhage, University of Bonn &amp; Fraunhofer IAIS"
+          - "Dr. Sandra Detzer, Member of the Deutscher Bundestag"
+          - "Magdalene Kariuki, Country Director Kenya, Tony Blair Institute"
+          - "Ben Wreschner, Government Relations Director, Vodafone Group"
+        moderation: "Moderation: Jan Bruck, Deutsche Welle <span class='tbc'>(tbc)</span>"
         highlight: true
 ---
 
-The workshop takes place over two days at the ZEI Center for European Integration
-Studies. Day two closes with a public evening panel open to the public.
+The workshop unfolds over two days at the ZEI Center for European Integration
+Studies. Day one opens with a keynote on digital dependencies and global
+politics and a cross-disciplinary conversation, followed by panels on measuring
+digital dependence and on digital inequalities, and a conference dinner. Day two
+begins with a keynote on digital sovereignty from African and Asian
+perspectives, continues with panels on technological autonomy and alternative
+digital futures, and concludes with a public panel on European digital
+sovereignty.
