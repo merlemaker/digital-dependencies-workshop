@@ -4,13 +4,14 @@ intro: "Leading scholars and practitioners from across Europe, Africa, and Asia 
 layout: "single"
 ---
 
-<div class="person-list">
+## Keynotes
 
 <div class="speaker">
-<img class="speaker-photo" src="/images/speaker/julia-pohle.jpg" alt="Dr. Julia Pohle"><div class="speaker-body">
-<div class="person-role">Keynote: “Digital Dependencies and Global Politics” </div>
+<img class="speaker-photo" src="/images/speakers/julia-pohle.jpg" alt="Dr. Julia Pohle">
+<div class="speaker-body">
+<div class="person-role">Keynote: “Digital Dependencies and Global Politics”</div>
 
-### Dr. Julia Pohle 
+### Dr. Julia Pohle
 <span class="person-affil">Centre Marc Bloch & WZB Berlin</span>
 
 Dr. Julia Pohle is Deputy Director of the Centre Marc Bloch (CMB) in Berlin and a project lead and visiting researcher in the “Globalisation, Work and Production” research group at the WZB Berlin Social Science Center. Her work focuses on global and European digital policy, internet governance, and the political debates surrounding digital sovereignty, and she regularly advises institutions such as the German Bundestag and the European Commission’s Joint Research Centre. She previously worked at the UNESCO Secretariat in Paris.
@@ -18,13 +19,15 @@ Dr. Julia Pohle is Deputy Director of the Centre Marc Bloch (CMB) in Berlin and 
 </div>
 
 <div class="speaker">
-<img class="speaker-photo" src="/images/speaker/irene-makau.jpg" alt="Irene Makau"><div class="speaker-body">
-<div class="person-role"> Keynote: Shaping Digital Sovereignty for Civil Society: African and Asian Perspectives”</div>
+<img class="speaker-photo" src="/images/speakers/irene-makau.jpg" alt="Irene Makau">
+<div class="speaker-body">
+<div class="person-role">Keynote: “Shaping Digital Sovereignty for Civil Society: African and Asian Perspectives”</div>
 
-### Irene Makau 
+### Irene Makau
 <span class="person-affil">The Oversight Lab Africa</span>
 
-Irene Makau is a Kenyan lawyer and technology-policy researcher working at the intersection of technology, digital markets, and human rights. As a Research Officer at The Oversight Lab Africa, she examines how the continent’s digital transformation can be shaped to protect people’s rights, focusing on consumer concerns, market integrity, and competition in fast-changing digital markets. Her research covers digital markets, e-governance, cross-border data flows, and the AI-driven gig economy, and she has previously worked with organisations including Centre for Intellectual Property and Information Technology Law (CIPIT) and Africa Legal Network Kenya (ALN).
+Irene Makau is a Kenyan lawyer and technology-policy researcher working at the intersection of technology, digital markets, and human rights. As a Research Officer at The Oversight Lab Africa, she examines how the continent’s digital transformation can be shaped to protect people’s rights, focusing on consumer concerns, market integrity, and competition in fast-changing digital markets. Her research covers digital markets, e-governance, cross-border data flows, and the AI-driven gig economy, and she has previously worked with organisations including the Centre for Intellectual Property and Information Technology Law (CIPIT) and Africa Legal Network Kenya (ALN).
+</div>
 </div>
 
 ## Featured Panellists
@@ -75,7 +78,6 @@ Dr. Sandra Detzer is a Member of the German Bundestag for Bündnis 90/Die Grüne
 
 Magdalene Kariuki is Country Director for Kenya at the Tony Blair Institute for Global Change, where she leads the Institute's work supporting public-sector reform and digital transformation, including Kenya's national artificial intelligence agenda. She brings around two decades of experience in policy advocacy and stakeholder engagement, working closely with government on digital trade, AI readiness, and investment. She holds a Master of Public Policy and Administration from Kenyatta University.
 </div>
-
 </div>
 
 ## Panellists & Contributors
@@ -110,7 +112,7 @@ The workshop brings together contributors from across the world:
 <li><span class="c-name">Prof. Dr. Caja Thimm</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">Ben Wreschner</span><span class="c-affil">Vodafone Group</span></li>
 </ul>
+
 <div class="callout">
-<p>The full list of confirmed speakers will be
-published closer to the event. Entries marked <span class="tbc">(tbc)</span> are still to be confirmed.</p>
+<p>The full list of confirmed speakers will be published closer to the event. Entries marked <span class="tbc">(tbc)</span> are still to be confirmed.</p>
 </div>
