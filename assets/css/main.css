@@ -826,6 +826,12 @@ main { display: block; }
     margin: 1.4rem 0 0 0;
 }
 .public-panel .panel-mod strong { color: var(--navy); font-weight: 600; }
+.speaker-figure {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
 .photo-credit {
     display: block;
     font-size: 0.72rem;

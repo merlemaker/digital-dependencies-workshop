@@ -18,8 +18,10 @@ Dr. Julia Pohle is Deputy Director of the Centre Marc Bloch (CMB) in Berlin and 
 </div>
 
 <div class="speaker">
+<div class="speaker-figure">
 <img class="speaker-photo" src="/images/speakers/charles-martin-shields.jpg" alt="Dr. Charles Martin-Shields">
 <span class="photo-credit">Photo: Dan Ax</span>
+</div>
 <div class="speaker-body">
 
 ### Dr. Charles Martin-Shields
