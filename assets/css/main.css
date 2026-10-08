@@ -833,3 +833,12 @@ main { display: block; }
     margin-top: 0.3rem;
     font-style: italic;
 }
+/* Tighten vertical spacing between stacked sections on the homepage */
+.page-section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.public-panel {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
