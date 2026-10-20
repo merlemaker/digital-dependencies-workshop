@@ -108,6 +108,7 @@ The workshop brings together contributors from across the world:
 
 <ul class="contributors">
 <li><span class="c-name">Dr. Joscha Abels</span><span class="c-affil">University of Tübingen</span></li>
+<li><span class="c-name">Adam Balcerzak</span><span class="c-affil">University of Warsaw</span></li>
 <li><span class="c-name">Prof. Dr. Christian Bauckhage</span><span class="c-affil">University of Bonn &amp; Fraunhofer IAIS</span></li>
 <li><span class="c-name">Nathalie Brandmeyr</span><span class="c-affil">Vodafone Institute</span></li>
 <li><span class="c-name">Dr. Karolina Brylska</span><span class="c-affil">University of Warsaw</span></li>
@@ -118,6 +119,7 @@ The workshop brings together contributors from across the world:
 <li><span class="c-name">Magdalena Kariuki</span><span class="c-affil">Tony Blair Institute (Country Director Kenya)</span></li>
 <li><span class="c-name">Amanuel Tesfaye Kebede</span><span class="c-affil">University of Helsinki</span></li>
 <li><span class="c-name">Prof. Dr. Patrício Langa</span><span class="c-affil">University of Bonn</span></li>
+<li><span class="c-name">Marcin Łączyński</span><span class="c-affil">University of Warsaw</span></li>
 <li><span class="c-name">Prof. Dr. Dennis Lehmkuhl</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">Dr. Hangwei Li</span><span class="c-affil">University of Bonn &amp; IDOS</span></li>
 <li><span class="c-name">Yen-Chi Lu</span><span class="c-affil">University of Bonn</span></li>
@@ -138,3 +140,4 @@ The workshop brings together contributors from across the world:
 <div class="callout">
 <p>The full list of confirmed speakers will be published closer to the event. Entries marked <span class="tbc">(tbc)</span> are still to be confirmed.</p>
 </div>
+

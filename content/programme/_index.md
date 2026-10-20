@@ -39,7 +39,7 @@ days:
         kind: "Panel II"
         title: "Digital Inequalities: Economic, Political and Social Consequences"
         people:
-          - "Prof. Dr. Tomasz Gackowski &amp; Dr. Karolina Brylska, University of Warsaw"
+          - "Prof. Dr. Tomasz Gackowski, Dr. Karolina Brylska, Marcin Łączyński &amp; Adam Balcerzak, University of Warsaw"
           - "Dr. Rogelio Madrueño, University of Bonn"
           - "Prof. Dr. Mary Setrana, University of Ghana"
           - "Prof. Dr. Caja Thimm, University of Bonn"
