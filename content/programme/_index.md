@@ -14,9 +14,10 @@ days:
         title: "Welcome and Introduction to the Programme"
         desc: "Opening remarks, followed by the workshop's first keynote and a cross-disciplinary conversation."
         people:
+          - "Prof. Dr. Dennis Lehmkuhl, Vice Dean of the Faculty of Arts, University of Bonn"
           - "Prof. Dr. Caja Thimm &amp; Prof. Dr. Maximilian Mayer, University of Bonn"
-          - "<strong>Keynote:</strong> “Digital Dependencies and Global Politics” — Dr. Julia Pohle, Centre Marc Bloch &amp; WZB Berlin"
-          - "<strong>Conversation across fields:</strong> Dr. Julia Pohle, Centre Marc Bloch &amp; WZB Berlin, and Dr. Charles Martin-Shields, IDOS"
+          - "<strong>Keynote:</strong> “Digital Dependencies and Global Politics” — Dr. Julia Pohle, Centre Marc Bloch / WZB Berlin"
+          - "<strong>Conversation across fields:</strong> Dr. Julia Pohle (Centre Marc Bloch / WZB Berlin) and Dr. Charles Martin-Shields (IDOS)"
         moderation: "Moderation: Prof. Dr. Caja Thimm, University of Bonn"
         highlight: true
       - time: "12:30 – 14:00"
@@ -45,7 +46,7 @@ days:
         moderation: "Moderation: Prof. Dr. Patrício Langa, University of Bonn"
       - time: "19:00 – 20:30"
         type: "break"
-        label: "Conference Dinner at The Protea Restaurant, Rheingasse 5, 53113 Bonn"
+        label: "Conference Dinner — The Protea Restaurant, Rheingasse 5, 53113 Bonn"
   - title: "Thursday, 22 October"
     date: "Day Two — Comparative Strategies & Closing Panels"
     items:
@@ -57,7 +58,7 @@ days:
         title: "Shaping Digital Sovereignty for Civil Society: African and Asian Perspectives"
         people:
           - "<strong>Keynote:</strong> Irene Makau, The Oversight Lab Africa"
-          - "<strong>Conversation:</strong> Irene Makau, The Oversight Lab Africa, and Dr. Hangwei Li, University of Bonn"
+          - "<strong>Conversation:</strong> Irene Makau (The Oversight Lab Africa) and Dr. Hangwei Li (University of Bonn)"
         moderation: "Moderation: Prof. Dr. Maximilian Mayer, University of Bonn"
         highlight: true
       - time: "10:00 – 10:15"
@@ -80,7 +81,7 @@ days:
         title: "Alternative Digital Futures? Rethinking the Market Powers vs. Regulators Debate"
         people:
           - "Dr. Nina Frahm, Aarhus University"
-          - "Magdalene Kariuki, TBI Kenya"
+          - "Magdalena Kariuki, TBI Kenya"
           - "Dr. Carlotta Manz, University of Basel"
         moderation: "Moderation: PD Dr. Laura Mahrenbach, University of Bonn"
       - time: "14:30 – 14:45"
@@ -91,11 +92,11 @@ days:
         title: "Strategies of European Digital Sovereignty in a Global Context: Perspectives from Politics, Business and Research"
         desc: "A public panel, open to all, concluding the workshop."
         people:
-          - "Prof. Dr. Christian Bauckhage, University of Bonn &amp; Fraunhofer IAIS"
           - "Dr. Sandra Detzer, Member of the Deutscher Bundestag"
-          - "Magdalene Kariuki, Country Director Kenya, Tony Blair Institute"
           - "Ben Wreschner, Government Relations Director, Vodafone Group"
-        moderation: "Moderation: Jan Bruck, Deutsche Welle <span class='tbc'>(tbc)</span>"
+          - "Magdalena Kariuki, Country Director Kenya, Tony Blair Institute for Global Change"
+          - "Prof. Dr. Christian Bauckhage, University of Bonn &amp; Fraunhofer IAIS"
+        moderation: "Moderation: Prof. Dr. Caja Thimm &amp; Prof. Dr. Maximilian Mayer, University of Bonn"
         highlight: true
 ---
 

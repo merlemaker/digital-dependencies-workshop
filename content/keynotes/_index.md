@@ -7,7 +7,9 @@ layout: "single"
 ## Keynotes
 
 <div class="speaker">
+<div class="speaker-figure">
 <img class="speaker-photo" src="/images/speakers/julia-pohle.jpg" alt="Dr. Julia Pohle">
+</div>
 <div class="speaker-body">
 
 ### Dr. Julia Pohle
@@ -32,7 +34,9 @@ Dr. Charles Martin-Shields is a Project Lead and Senior Researcher at the German
 </div>
 
 <div class="speaker">
+<div class="speaker-figure">
 <img class="speaker-photo" src="/images/speakers/irene-makau.jpg" alt="Irene Makau">
+</div>
 <div class="speaker-body">
 
 ### Irene Makau
@@ -43,15 +47,27 @@ Irene Makau is a Kenyan lawyer and technology-policy researcher working at the i
 </div>
 
 <div class="speaker">
+<div class="speaker-figure">
 <img class="speaker-photo" src="/images/speakers/hangwei-li.jpg" alt="Dr. Hangwei Li">
+</div>
 <div class="speaker-body">
 
 ### Dr. Hangwei Li
-<span class="person-affil">IDOS &amp; University of Bonn</span>
+<span class="person-affil">University of Bonn &amp; IDOS</span>
 
 Dr. Hangwei Li is a senior researcher at the University of Bonn and the German Institute of Development and Sustainability (IDOS). Her research spans comparative politics, international development, and political communication, with a particular focus on China’s engagement with the Global South, especially Africa, and on China-financed digital infrastructure. She received her PhD from SOAS, University of London. Prior to her academic career, she spent several years working as a journalist and researcher across Ghana, Zambia, and Tanzania.
 </div>
 </div>
+
+<div class="callout">
+<p><strong>Keynote sessions:</strong></p>
+<p><strong>Day 1 — Keynote: “Digital Dependencies and Global Politics”</strong> — Dr. Julia Pohle (Centre Marc Bloch & WZB Berlin).<br>
+<strong>Conversation across fields</strong> — Dr. Julia Pohle (Centre Marc Bloch & WZB Berlin) and Dr. Charles Martin-Shields (IDOS).</p>
+<p><strong>Day 2 — Keynote: “Shaping Digital Sovereignty for Civil Society: African and Asian Perspectives”</strong> — Irene Makau (The Oversight Lab Africa).<br>
+<strong>Conversation</strong> — Irene Makau (The Oversight Lab Africa) and Dr. Hangwei Li (University of Bonn).</p>
+</div>
+
+## Public Panel
 
 <div class="public-panel">
 <div class="panel-eyebrow">Public Panel · Open to all</div>
@@ -73,7 +89,7 @@ Dr. Hangwei Li is a senior researcher at the University of Bonn and the German I
 </div>
 <div class="panelist-card">
 <div class="pc-initials">MK</div>
-<span class="pc-name">Magdalene Kariuki</span>
+<span class="pc-name">Magdalena Kariuki</span>
 <span class="pc-affil">Country Director Kenya, Tony Blair Institute</span>
 </div>
 <div class="panelist-card">
@@ -83,7 +99,7 @@ Dr. Hangwei Li is a senior researcher at the University of Bonn and the German I
 </div>
 </div>
 
-<p class="panel-mod"><strong>Moderation:</strong> Jan Bruck, Deutsche Welle <span class="tbc">(tbc)</span></p>
+<p class="panel-mod"><strong>Moderation:</strong> Prof. Dr. Caja Thimm &amp; Prof. Dr. Maximilian Mayer, University of Bonn</p>
 </div>
 
 ## Panellists & Contributors
@@ -94,16 +110,16 @@ The workshop brings together contributors from across the world:
 <li><span class="c-name">Dr. Joscha Abels</span><span class="c-affil">University of Tübingen</span></li>
 <li><span class="c-name">Prof. Dr. Christian Bauckhage</span><span class="c-affil">University of Bonn &amp; Fraunhofer IAIS</span></li>
 <li><span class="c-name">Nathalie Brandmeyr</span><span class="c-affil">Vodafone Institute</span></li>
-<li><span class="c-name">Jan Bruck <span class="tbc">(tbc)</span></span><span class="c-affil">Deutsche Welle</span></li>
 <li><span class="c-name">Dr. Karolina Brylska</span><span class="c-affil">University of Warsaw</span></li>
 <li><span class="c-name">Dr. Sandra Detzer, MdB</span><span class="c-affil">Deutscher Bundestag</span></li>
 <li><span class="c-name">Dr. Ksenia Ermoshina</span><span class="c-affil">CNRS Paris</span></li>
 <li><span class="c-name">Dr. Nina Frahm</span><span class="c-affil">Aarhus University</span></li>
 <li><span class="c-name">Prof. Dr. Tomasz Gackowski</span><span class="c-affil">University of Warsaw</span></li>
-<li><span class="c-name">Magdalene Kariuki</span><span class="c-affil">Tony Blair Institute (Country Director Kenya)</span></li>
+<li><span class="c-name">Magdalena Kariuki</span><span class="c-affil">Tony Blair Institute (Country Director Kenya)</span></li>
 <li><span class="c-name">Amanuel Tesfaye Kebede</span><span class="c-affil">University of Helsinki</span></li>
 <li><span class="c-name">Prof. Dr. Patrício Langa</span><span class="c-affil">University of Bonn</span></li>
-<li><span class="c-name">Dr. Hangwei Li</span><span class="c-affil">University of Bonn</span></li>
+<li><span class="c-name">Prof. Dr. Dennis Lehmkuhl</span><span class="c-affil">University of Bonn</span></li>
+<li><span class="c-name">Dr. Hangwei Li</span><span class="c-affil">University of Bonn &amp; IDOS</span></li>
 <li><span class="c-name">Yen-Chi Lu</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">Dr. Rogelio Madrueño</span><span class="c-affil">University of Bonn</span></li>
 <li><span class="c-name">PD Dr. Laura Mahrenbach</span><span class="c-affil">University of Bonn</span></li>

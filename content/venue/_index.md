@@ -1,32 +1,27 @@
 ---
 title: "Venue & Directions"
-intro: "The workshop takes place at the Center for European Integration Studies (ZEI), with a public evening panel at IMPULSE nearby."
+intro: "The workshop takes place at the ZEI Center for European Integration Studies, Genscherallee 3, Bonn."
 layout: "single"
 ---
 
 ## Main Venue
 
-**ZEI Center for European Integration Studies, Conference room**
-[Room tba]
+**ZEI Center for European Integration Studies** — Conference Room
 Genscherallee 3, 53113 Bonn, Germany
 
-The academic sessions on both days will be held at this venue.
-The precise building and room will be confirmed with registered
-participants ahead of the event.
+All sessions on both days, including the public panel on 22 October, take
+place at the ZEI Conference Room.
 
-## Public Evening Panel
+<iframe class="embed-frame" src="https://www.google.com/maps?q=ZEI+Center+for+European+Integration+Studies,+Genscherallee+3,+53113+Bonn&output=embed" height="420" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Map to ZEI, Genscherallee 3, Bonn"></iframe>
 
-**IMPULSE — House for Intellectual Innovation and Creativity**
-Adenauerallee 131, 53113 Bonn
+## Conference Dinner
 
-On the evening of 21 October, participants will walk together from the main
-venue to IMPULSE for the public panel discussion and reception.
+**The Protea Restaurant** — Rheingasse 5, 53113 Bonn
+The conference dinner takes place on the evening of 21 October.
 
-<iframe class="embed-frame"
-  src="https://www.google.com/maps?q=ZEI+Center+for+European+Integration+Studies,+Genscherallee+3,+53113+Bonn&output=embed"
-  height="420" style="border:0;" allowfullscreen="" loading="lazy"
-  referrerpolicy="no-referrer-when-downgrade" title="Map to IMPULSE, Adenauerallee 131, Bonn">
-</iframe>
+## Conference Hotel
+
+**Motel One Bonn Hauptbahnhof** — Am Hauptbahnhof 12, 53111 Bonn
 
 ## Getting to Bonn
 
