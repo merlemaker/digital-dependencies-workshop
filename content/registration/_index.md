@@ -10,7 +10,7 @@ limited and registration is required.
 **Registration deadline:** [to be announced]
 
 <div class="callout">
-<p>The public evening panel on 22 October at IMPULSE is open to all. If you
+<p>The public evening panel on 22 October is open to all. If you
 would like to attend only the public panel, please indicate this in the
 registration form.</p>
 </div>
